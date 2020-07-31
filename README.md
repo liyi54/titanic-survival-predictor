@@ -1,2 +1,9 @@
-# titanic-survival-predictor
-ML Model for predicting survival of passengers on the Titanic ship.
+# Project Title
+
+[Titanic Survival Prediction](https://www.kaggle.com/c/titanic/overview)
+
+## Acknowledgments
+
+* Ken Jee
+
+
